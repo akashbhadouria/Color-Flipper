@@ -1,5 +1,5 @@
 # Color-Flipper
-Generate randome colors and see the color name on go.
+Generate random colors and see the color name on the go. How cool is that, isn't it!
 
 ## Hosted site
 
